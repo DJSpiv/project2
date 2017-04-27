@@ -1,0 +1,6 @@
+{
+	 "devServer":
+    {
+       "url":"mongodb://project2admin:huFbhIy5h0A1DA43k0gcqQ9rRJm9GLMIyCKLoo6LNFQC2p1jPjXtSeCTduQoHPAVqxxVDH7LQ81i7oIgtQLovA==@project2admin.documents.azure.com:10250/store?ssl=true"
+    }
+}

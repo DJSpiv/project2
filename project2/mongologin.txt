@@ -1,0 +1,9 @@
+mongoimport -h project2admin.documents.azure.com:10250  –db store -–collection inventory -u project2admin -p huFbhIy5h0A1DA43k0gcqQ9rRJm9GLMIyCKLoo6LNFQC2p1jPjXtSeCTduQoHPAVqxxVDH7LQ81i7oIgtQLovA== --ssl --sslAllowInvalidCertificates -–file C:\users\donov\Desktop\project2\json\inventory.json
+
+
+mongoimport.exe --host projectnum2.documents.azure.com:10250 -u projectnum2mongoimport -h projectnum2.documents.azure.com:10250  –db store –collection inventory -u projectnum2 -p IPx3E9Shu75cuFwoyicKHsL2Ow9nhU7QqOG0HZR4EWKtWfJJKHP623PVznjS9lF44GOwWA2HZ3biipxyFHWTHQ== --ssl --sslAllowInvalidCertificates -–file C:\users\donov\Desktop\project2\json\inventory.json
+
+ -p IPx3E9Shu75cuFwoyicKHsL2Ow9nhU7QqOG0HZR4EWKtWfJJKHP623PVznjS9lF44GOwWA2HZ3biipxyFHWTHQ== --ssl --sslAllowInvalidCertificates --db <your_database> --collection <your_collection> --ssl --sslAllowInvalidCertificates --type json --file C:\sample.json
+
+
+mongo.exe projectnum2.documents.azure.com:10250 -u projectnum2 -p IPx3E9Shu75cuFwoyicKHsL2Ow9nhU7QqOG0HZR4EWKtWfJJKHP623PVznjS9lF44GOwWA2HZ3biipxyFHWTHQ== --ssl --sslAllowInvalidCertificates

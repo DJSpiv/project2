@@ -1,0 +1,15 @@
+{"_id":{"$oid":"58fec98c558c28c4813ef353"},"name":"Fresh Cotton","price":"12.99","img":"rustic_cotton.jpg"}
+{"_id":{"$oid":"58fec9ba558c28c4813ef354"},"name":"Pumpkin Spice","price":"8.99","img":"rustic_pumpkin.jpg"}
+{"_id":{"$oid":"58fec9d3558c28c4813ef355"},"name":"Java","price":"10.99","img":"rustic_java.jpg"}
+{"_id":{"$oid":"58fec9ec558c28c4813ef356"},"name":"Orange and Cinnamon","price":"11.99","img":"rustic_org+cin.jpg"}
+{"_id":{"$oid":"58feca19558c28c4813ef357"},"name":"Patchouli","price":"10.99","img":"rustic_patch.jpg"}
+{"_id":{"$oid":"58feca57558c28c4813ef358"},"name":"Silver Spruce","price":"8.99","img":"rustic_spruce.jpg"}
+{"_id":{"$oid":"58feca70558c28c4813ef359"},"name":"Signature Scent","price":"13.99","img":"rustic_silk.jpg"}
+{"_id":{"$oid":"58feca8c558c28c4813ef35a"},"name":"Natural Orange","price":"9.99","img":"rustic_orange.jpg"}
+{"_id":{"$oid":"58fecab2558c28c4813ef35b"},"name":"Scenic City: Chattanooga, TN","price":"13.99","img":"rustic_city.jpg"}
+{"_id":{"$oid":"58fecaf9558c28c4813ef35c"},"name":"Pineapple","price":"13.99","img":"rustic_pineapple.jpg"}
+{"_id":{"$oid":"58fecb09558c28c4813ef35d"},"name":"Rosemary","price":"13.99","img":"rustic_rose.jpg"}
+{"_id":{"$oid":"58fecb22558c28c4813ef35e"},"name":"Natural Lemongrass","price":"13.99","img":"rustic_lemon.jpg"}
+{"_id":{"$oid":"58fecb5b558c28c4813ef35f"},"name":"Cider","price":"7.99","img":"sample_farm.jpg"}
+{"_id":{"$oid":"58fecb75558c28c4813ef360"},"name":"Coco","price":"9.99","img":"sample_coco.jpg"}
+{"_id":{"$oid":"58fecbe0558c28c4813ef361"},"name":"Grapefruit \u0026 Jambu","price":"9.99","img":"sample_Fruits.jpg"}
